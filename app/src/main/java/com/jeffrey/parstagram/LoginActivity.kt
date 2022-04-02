@@ -14,6 +14,7 @@ class LoginActivity : AppCompatActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_login)
+//        ParseUser.logOut()
         if(ParseUser.getCurrentUser() != null){
 //          Auto logout after rerun for testing
 //            ParseUser.logOut()

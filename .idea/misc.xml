@@ -4,7 +4,11 @@
     <option name="filePathToZoomLevelMap">
       <map>
         <entry key="..\:/Users/Sting/AndroidStudioProjects/Parstagram/app/src/main/res/layout/activity_login.xml" value="0.2" />
-        <entry key="..\:/Users/Sting/AndroidStudioProjects/Parstagram/app/src/main/res/layout/activity_main.xml" value="0.264" />
+        <entry key="..\:/Users/Sting/AndroidStudioProjects/Parstagram/app/src/main/res/layout/activity_main.xml" value="0.2" />
+        <entry key="..\:/Users/Sting/AndroidStudioProjects/Parstagram/app/src/main/res/layout/fragment_compose.xml" value="0.15367180417044424" />
+        <entry key="..\:/Users/Sting/AndroidStudioProjects/Parstagram/app/src/main/res/layout/fragment_feed.xml" value="0.1" />
+        <entry key="..\:/Users/Sting/AndroidStudioProjects/Parstagram/app/src/main/res/layout/item_post.xml" value="0.15367180417044424" />
+        <entry key="..\:/Users/Sting/AndroidStudioProjects/Parstagram/app/src/main/res/menu/menu_bottom_navigation.xml" value="0.20863616930312098" />
         <entry key="..\:/Users/Sting/AndroidStudioProjects/Parstagram/app/src/main/res/xml/fileprovider.xml" value="0.15367180417044424" />
       </map>
     </option>
